@@ -1,5 +1,7 @@
 # Proyectos del curso completo de iOS 12 de JB
 
+[Ver el curso completo](https://www.udemy.com/course/curso-completo-de-ios-12-de-cero-a-experto)
+
 [Ver el curso completo en Udemy](https://www.udemy.com/curso-completo-de-ios-12-de-cero-a-experto/)
 
 ## Proyecto 1 - I am Rich
